@@ -1,0 +1,1 @@
+import r from"./GlobalHeader.46c47ca7.js";import _ from"./GlobalFooter.20c282aa.js";import{_ as c,c as a,b as o,x as s,F as m,o as l}from"./entry.1d521b4d.js";import"./nuxt-link.91c6ccdd.js";import"./mti.9d6d9cc2.js";const p={};function f(e,d){const t=r,n=_;return l(),a(m,null,[o(t),s(e.$slots,"default"),o(n)],64)}const k=c(p,[["render",f]]);export{k as default};
